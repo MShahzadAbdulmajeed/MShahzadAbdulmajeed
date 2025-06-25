@@ -28,19 +28,21 @@ Passionate about building intelligent systems and scalable applications with exp
 ## 🚀 **Featured Projects**
 
 ### **AI & Machine Learning**
+[![GitHub](https://img.shields.io/badge/View_Code-GitHub-green)](https://github.com/MShahzadAbdulmajeed/AI_Django_Website)
 1. **[Live Object Detection & Math-Solver (Django)](https://github.com/MShahzadAbdulmajeed/AI_Django_Website)**  
    Real-time object detection using TensorFlow and OpenCV for video streaming.  
    *Tech: TensorFlow, OpenCV, YOLO*
-
-2. **Math-Solve Chatbot with OCR**  
+[![GitHub](https://img.shields.io/badge/View_Code-GitHub-green)](https://github.com/MShahzadAbdulmajeed/SmartQuery_Ai_Django)
+2. **[SmartQuery AI Agent (Django)](https://github.com/MShahzadAbdulmajeed/SmartQuery_Ai_Django)**  
    Extracts equations from images and solves them step-by-step using OCR and deep learning.  
    *Tech: Python, OpenCV, Transformers*
-
-3. **Multi-Agent Chatbot**  
+   
+[![GitHub](https://img.shields.io/badge/View_Code-GitHub-green)](https://github.com/MShahzadAbdulmajeed/SmartQuery_Ai_Django)
+4. **[Multi-Agent Chatbot](https://github.com/MShahzadAbdulmajeed/SmartQuery_Ai_Django)**  
    Advanced chatbot leveraging CrewAI for dynamic multi-agent collaboration.  
    *Tech: CrewAI, LangChain, LLMs*
 
-4. **Video Generation with Veo3 & Stable Diffusion**  
+5. **Video Generation with Veo3 & Stable Diffusion**  
    AI-powered video generation and enhancement pipeline.  
    *Tech: Veo3, Stable Diffusion, Python*
 
