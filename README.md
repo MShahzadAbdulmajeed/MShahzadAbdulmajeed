@@ -28,7 +28,7 @@ Passionate about building intelligent systems and scalable applications with exp
 ## 🚀 **Featured Projects**
 
 ### **AI & Machine Learning**
-1. **Live Object Detection**  
+1. **[Live Object Detection & Math-Solver (Django)](https://github.com/MShahzadAbdulmajeed/AI_Django_Website)**  
    Real-time object detection using TensorFlow and OpenCV for video streaming.  
    *Tech: TensorFlow, OpenCV, YOLO*
 
