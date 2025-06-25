@@ -29,15 +29,19 @@ Passionate about building intelligent systems and scalable applications with exp
 
 ### **AI & Machine Learning**
 [![GitHub](https://img.shields.io/badge/View_Code-GitHub-green)](https://github.com/MShahzadAbdulmajeed/AI_Django_Website)
+
 1. **[Live Object Detection & Math-Solver (Django)](https://github.com/MShahzadAbdulmajeed/AI_Django_Website)**  
    Real-time object detection using TensorFlow and OpenCV for video streaming.  
    *Tech: TensorFlow, OpenCV, YOLO*
+   
 [![GitHub](https://img.shields.io/badge/View_Code-GitHub-green)](https://github.com/MShahzadAbdulmajeed/SmartQuery_Ai_Django)
-2. **[SmartQuery AI Agent (Django)](https://github.com/MShahzadAbdulmajeed/SmartQuery_Ai_Django)**  
+
+3. **[SmartQuery AI Agent (Django)](https://github.com/MShahzadAbdulmajeed/SmartQuery_Ai_Django)**  
    Extracts equations from images and solves them step-by-step using OCR and deep learning.  
    *Tech: Python, OpenCV, Transformers*
    
 [![GitHub](https://img.shields.io/badge/View_Code-GitHub-green)](https://github.com/MShahzadAbdulmajeed/SmartQuery_Ai_Django)
+
 4. **[Multi-Agent Chatbot](https://github.com/MShahzadAbdulmajeed/SmartQuery_Ai_Django)**  
    Advanced chatbot leveraging CrewAI for dynamic multi-agent collaboration.  
    *Tech: CrewAI, LangChain, LLMs*
@@ -60,7 +64,9 @@ Passionate about building intelligent systems and scalable applications with exp
    *Tech: WordPress, Plugins, REST APIs*
 
 ### **Full-Stack Applications**
-8. **SmartQuery**  
+[![GitHub](https://img.shields.io/badge/View_Code-GitHub-green)](https://github.com/MShahzadAbdulmajeed/AI_Django_Website)
+
+8. **[SmartQuery](https://github.com/MShahzadAbdulmajeed/SmartQuery_Ai_Django)**  
    AI-powered web app for real-time RAG-based queries with session awareness.  
    *Tech: Django, LangChain, React*
 
