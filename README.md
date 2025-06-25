@@ -76,12 +76,10 @@ Passionate about building intelligent systems and scalable applications with exp
 
 ---
 
-## 📫 **Connect With Me**
-- **Email**: shahzad.abdulmajeed4894@gmail.com  
-- **LinkedIn**: [Muhammad Shahzad](https://www.linkedin.com/in/shahzad-abdulmajeed-618887220)  
-- **Portfolio**: [GitHub](https://github.com/MShahzadAbdulmajeed)  
-- **Phone**: +92-309-9081285  
-
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/shahzad-abdulmajeed-618887220)  
+[![Email](https://img.shields.io/badge/Email-Contact-red)](shahzad.abdulmajeed4894@gmail.com)  
+📞 +92-309-9081285  
 ---
 
 ## 🔥 **GitHub Stats**
