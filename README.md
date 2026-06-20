@@ -86,8 +86,20 @@ Accomplished Full-Stack AI Developer, Deep Learning Engineer, and SaaS Architect
 
 ---
 
-## Performance Metrics
+## 🔥 **GitHub Stats**
 
-```placehold
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MShahzadAbdulmajeed&show_icons=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MShahzadAbdulmajeed&layout=compact&theme=transparent)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MShahzadAbdulmajeed&show_icons=true&theme=radical)
+
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MShahzadAbdulmajeed&layout=compact&theme=radical)
+
+
+
+---
+
+
+
+⭐ **Open to collaborations on AI, automation, and innovative projects!**  
+
+📌 *"Turning ideas into intelligent solutions."*
