@@ -74,6 +74,7 @@ Accomplished Full-Stack AI Developer, Deep Learning Engineer, and SaaS Architect
 ### Attronaut Marketing Analytics Portal
 * **Overview:** Central marketing analytics portal integrating Shopify and Google Ads APIs[cite: 1]. Configured asynchronous OAuth2 pipelines to securely register business emails and fetch real-time metrics, cutting manual data-gathering cycles by 50%[cite: 1].
 
+
 ---
 
 ## Professional Profiles & Verification
@@ -86,20 +87,8 @@ Accomplished Full-Stack AI Developer, Deep Learning Engineer, and SaaS Architect
 
 ---
 
-## 🔥 **GitHub Stats**
+## Performance Metrics
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MShahzadAbdulmajeed&show_icons=true&theme=radical)
-
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MShahzadAbdulmajeed&layout=compact&theme=radical)
-
-
-
----
-
-
-
-⭐ **Open to collaborations on AI, automation, and innovative projects!**  
-
-📌 *"Turning ideas into intelligent solutions."*
+```placehold
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MShahzadAbdulmajeed&show_icons=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MShahzadAbdulmajeed&layout=compact&theme=transparent)
