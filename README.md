@@ -1,3 +1,9 @@
+<p align="center"><img src="https://komarev.com/ghpvc/?username=MShahzadAbdulmajeed&style=flat-square&color=blue" alt=""></p>
+
+<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+
+<p align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" height="300"  /></p>
+
 # Muhammad Shahzad
 
 **Full-Stack AI Developer | Deep Learning Engineer | SaaS Architect**
@@ -89,6 +95,10 @@ Accomplished Full-Stack AI Developer, Deep Learning Engineer, and SaaS Architect
 
 ## Performance Metrics
 
-```placehold
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MShahzadAbdulmajeed&show_icons=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MShahzadAbdulmajeed&layout=compact&theme=transparent)
+## 🔥 **GitHub Stats**
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MShahzadAbdulmajeed&show_icons=true&theme=radical)
+
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MShahzadAbdulmajeed&layout=compact&theme=radical)
