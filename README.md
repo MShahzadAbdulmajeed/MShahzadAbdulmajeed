@@ -78,15 +78,16 @@ Accomplished Full-Stack AI Developer, Deep Learning Engineer, and SaaS Architect
 
 ## Professional Profiles & Verification
 
-* **LinkedIn:** [linkedin.com/in/shahzad-abdulmajeed-618887220](https://linkedin.com/in/shahzad-abdulmajeed-618887220)[cite: 1]
-* **SaaS Portfolio:** [shahzad.openwriterai.com](http://shahzad.openwriterai.com)[cite: 1]
-* **Hugging Face:** [huggingface.co/its-shezi](https://huggingface.co/its-shezi)[cite: 1]
-* **Medium Publication:** [medium.com/@shahzad4894](https://medium.com/@shahzad4894)[cite: 1]
-* **Email Contact:** shahzad.abdulmajeed4894@gmail.com[cite: 1]
+* **LinkedIn:** [linkedin.com/in/shahzad-abdulmajeed-618887220](https://linkedin.com/in/shahzad-abdulmajeed-618887220)
+* **SaaS Portfolio:** [shahzad.openwriterai.com](http://shahzad.openwriterai.com)
+* **Hugging Face:** [huggingface.co/its-shezi](https://huggingface.co/its-shezi)
+* **Medium Publication:** [medium.com/@shahzad4894](https://medium.com/@shahzad4894)
+* **Email Contact:** shahzad.abdulmajeed4894@gmail.com
 
 ---
 
 ## Performance Metrics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MShahzadAbdulmajeed&show_icons=true&theme=neutral)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MShahzadAbdulmajeed&layout=compact&theme=neutral)
+```placehold
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MShahzadAbdulmajeed&show_icons=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MShahzadAbdulmajeed&layout=compact&theme=transparent)
